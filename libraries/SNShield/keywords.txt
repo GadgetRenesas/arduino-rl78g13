@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map SNShield
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SNShield	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+getAll	KEYWORD2
+getTemp	KEYWORD2
+getLux	KEYWORD2
+getAccx	KEYWORD2
+getAccy	KEYWORD2
+getAccz	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
